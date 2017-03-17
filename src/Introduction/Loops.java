@@ -30,6 +30,5 @@ public class Loops {
             i++;
         } while (i<=10);
 
-
     }
     }
