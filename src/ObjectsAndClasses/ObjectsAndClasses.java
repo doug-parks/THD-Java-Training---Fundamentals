@@ -3,6 +3,7 @@ package ObjectsAndClasses;
 /**
  * Created by djp4830 on 3/21/17.
  */
+
 public class ObjectsAndClasses {
 
     public static void main(String[] args) {
@@ -31,7 +32,7 @@ public class ObjectsAndClasses {
         }
 
     }
-    
+
 
     public static class dog {
         String name;
@@ -41,3 +42,4 @@ public class ObjectsAndClasses {
 
 
 }
+
